@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423241164781",
+    "project_id": "whatsappp-a5d4e",
+    "storage_bucket": "whatsappp-a5d4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423241164781:android:9ef141ff3501df6a1da9e4",
+        "android_client_info": {
+          "package_name": "com.example.whatsappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423241164781-mk92ncq453klpu668347vf0vaotfju8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappp",
+            "certificate_hash": "f7e6aaf38c096c879940d14ef53e48791710477f"
+          }
+        },
+        {
+          "client_id": "423241164781-h0emrsptbukfq2jsnjn97dng4don52c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEusAuaEaqgZNEPRsK4lv_xdWzFSdAzoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423241164781-h0emrsptbukfq2jsnjn97dng4don52c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
