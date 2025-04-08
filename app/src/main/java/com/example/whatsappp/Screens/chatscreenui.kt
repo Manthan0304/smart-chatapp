@@ -81,7 +81,7 @@ import com.example.whatsappp.dialogs.storypreview
 import com.example.whatsappp.ui.theme.chatviewmodel
 import java.text.SimpleDateFormat
 import java.util.Locale
-
+ 
 @Composable
 fun chatscreenui(
     viewmodel: chatviewmodel = chatviewmodel(),
